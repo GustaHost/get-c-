@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GUSTAVORIBEIRODEOLIV\\minhaPrimeiraAPI\\minhaPrimeiraAPI.csproj": {}
+    "C:\\Users\\GUSTAVORIBEIRODEOLIV\\Documents\\get-c-\\minhaPrimeiraAPI\\minhaPrimeiraAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GUSTAVORIBEIRODEOLIV\\minhaPrimeiraAPI\\minhaPrimeiraAPI.csproj": {
+    "C:\\Users\\GUSTAVORIBEIRODEOLIV\\Documents\\get-c-\\minhaPrimeiraAPI\\minhaPrimeiraAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GUSTAVORIBEIRODEOLIV\\minhaPrimeiraAPI\\minhaPrimeiraAPI.csproj",
+        "projectUniqueName": "C:\\Users\\GUSTAVORIBEIRODEOLIV\\Documents\\get-c-\\minhaPrimeiraAPI\\minhaPrimeiraAPI.csproj",
         "projectName": "minhaPrimeiraAPI",
-        "projectPath": "C:\\Users\\GUSTAVORIBEIRODEOLIV\\minhaPrimeiraAPI\\minhaPrimeiraAPI.csproj",
+        "projectPath": "C:\\Users\\GUSTAVORIBEIRODEOLIV\\Documents\\get-c-\\minhaPrimeiraAPI\\minhaPrimeiraAPI.csproj",
         "packagesPath": "C:\\Users\\GUSTAVORIBEIRODEOLIV\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GUSTAVORIBEIRODEOLIV\\minhaPrimeiraAPI\\obj\\",
+        "outputPath": "C:\\Users\\GUSTAVORIBEIRODEOLIV\\Documents\\get-c-\\minhaPrimeiraAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GUSTAVORIBEIRODEOLIV\\AppData\\Roaming\\NuGet\\NuGet.Config"
